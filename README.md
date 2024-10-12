@@ -8,14 +8,23 @@ The second frame creates the plot for the stickman.
 Commands for the plot:  
 
 CHARACHTER (IF MORE THAN ONE) ACTION (DIRECTION IF REQUIRED) DURATION (IF REQUIRED)
+
 EXAMPLES:
+
 START (NECESSARY)
+
 STICKMAN GO RIGHT/LEFT (DURATION IN MILISECONDS)
+
 STICMAN JUMP
+
 STICKMAN SIT
+
 STICKMAN FIGHT
+
 STICKMAN DANCE (DURATION)
+
 STICKMAN SAY "MESSAGE"
+
 END (NECESSARY)
 
 After the plot was finished the program will output the video
