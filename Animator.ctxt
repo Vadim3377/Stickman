@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Animator
+comment1.params=center\ bottom\ shade\ size\ face
+comment1.target=Animator(int,\ int,\ java.awt.Color,\ int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=int\ getCenter()
+comment4.params=face
+comment4.target=void\ setFace(int)
+numComments=5

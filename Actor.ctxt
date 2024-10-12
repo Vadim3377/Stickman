@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Actor
+comment1.params=center\ bottom\ shade\ size\ g\ start\ face
+comment1.target=Actor(int,\ int,\ java.awt.Color,\ int,\ java.awt.Graphics,\ Starter,\ int)
+comment10.params=command
+comment10.target=void\ setCommand(int)
+comment11.params=count
+comment11.target=void\ setCount(int)
+comment2.params=g
+comment2.target=void\ Create(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ jump(java.awt.Graphics)
+comment4.params=
+comment4.target=boolean\ getFlag()
+comment5.params=str
+comment5.target=void\ setMessage(java.lang.String)
+comment6.params=i
+comment6.target=void\ setI(int)
+comment7.params=baseX
+comment7.target=void\ setBaseX(int)
+comment8.params=j
+comment8.target=void\ setJ(int)
+comment9.params=step
+comment9.target=void\ setStep(int)
+numComments=12

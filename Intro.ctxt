@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Intro
+comment1.params=
+comment1.target=Intro()
+comment2.params=
+comment2.target=void\ CreateWindow()
+comment3.params=str\ num
+comment3.target=javax.swing.JButton\ CreateButton(java.lang.String,\ int)
+comment4.params=arg0
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=javax.swing.JLabel\ CreateImage()
+numComments=6

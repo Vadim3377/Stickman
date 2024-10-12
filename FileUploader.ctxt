@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FileUploader
+comment1.params=
+comment1.target=FileUploader()
+comment2.params=title\ operation
+comment2.target=javax.swing.JPanel\ createButton(java.lang.String,\ int)
+comment3.params=arg0
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=str\ recommended
+comment4.target=javax.swing.JPanel\ createContextMenu(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ ReadFile()
+comment6.params=str
+comment6.target=void\ TextAppear(java.lang.String)
+comment7.params=source\ dest
+comment7.target=void\ copyFileUsingChannel(java.io.File,\ java.io.File)
+numComments=8

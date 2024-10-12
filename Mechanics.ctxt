@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Mechanics
+comment1.params=g\ arr\ actor\ friend\ enemy\ start
+comment1.target=Mechanics(java.awt.Graphics,\ java.lang.String[],\ Actor,\ Actor,\ Actor,\ Starter)
+comment10.params=str
+comment10.target=int\ getTime(java.lang.String)
+comment11.params=finalArt6
+comment11.target=void\ NextAction(Actor)
+comment12.params=
+comment12.target=void\ StopTimer()
+comment2.params=stickman\ friend\ enemy\ str
+comment2.target=void\ ReadTheLine(Actor,\ Actor,\ Actor,\ java.lang.String)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=
+comment6.target=void\ run()
+comment7.params=
+comment7.target=void\ run()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=
+comment9.target=void\ run()
+numComments=13

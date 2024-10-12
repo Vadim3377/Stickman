@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dance
+comment1.params=baseX\ baseY\ g\ top\ height\ i\ face
+comment1.target=Dance(int,\ int,\ java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ dance(java.awt.Graphics)
+comment3.params=i
+comment3.target=void\ definer(int)
+numComments=4

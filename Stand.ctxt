@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Stand
+comment1.params=baseX\ baseY\ g\ top\ color\ height\ face
+comment1.target=Stand(int,\ int,\ java.awt.Graphics,\ int,\ java.awt.Color,\ int,\ int)
+comment2.params=g
+comment2.target=void\ stand(java.awt.Graphics)
+numComments=3

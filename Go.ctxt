@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Go
+comment1.params=baseX\ baseY\ g\ top\ i\ j\ height\ face
+comment1.target=Go(int,\ int,\ java.awt.Graphics,\ int,\ int,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ go(java.awt.Graphics)
+numComments=3

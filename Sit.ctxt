@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sit
+comment1.params=baseX\ baseY\ g\ top\ angleLegY\ height\ face
+comment1.target=Sit(int,\ int,\ java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ sit(java.awt.Graphics)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fight
+comment1.params=baseX\ baseY\ g\ top\ j\ height\ face
+comment1.target=Fight(int,\ int,\ java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ fight(java.awt.Graphics)
+numComments=3
