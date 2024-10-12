@@ -1,8 +1,12 @@
 # Stickman
 Animation game, in which the user can create his own charachter and operate with it. 
-The first frame creates the Stickman charachter with a specific height and color. The face and the background can uploaded using the file menu.
-The second frame creates the plot for the stickman. 
-Commands for the plot:
+
+The first frame creates the Stickman charachter with a specific height and color. The face and the background can uploaded using the file menu.  
+
+The second frame creates the plot for the stickman.  
+
+Commands for the plot:  
+
 CHARACHTER (IF MORE THAN ONE) ACTION (DIRECTION IF REQUIRED) DURATION (IF REQUIRED)
 EXAMPLES:
 START (NECESSARY)
